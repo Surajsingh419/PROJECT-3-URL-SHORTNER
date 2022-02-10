@@ -20,7 +20,7 @@
     "axios": "^0.24.0",
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.2",
     "install": "^0.13.0",
     "mongoose": "^6.1.0",
     "node-url-shortener": "^2.0.0",
